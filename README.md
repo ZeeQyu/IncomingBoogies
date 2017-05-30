@@ -1,6 +1,8 @@
 # IncomingBoogies
 One-week project with a three-man team
 
+![Screenshot of the game](Screenshot.jpg)
+
 A designer in my game development school created a game concept for a small game, which I found interesting.
 I decided to make a quick implementation of it in unity, and pulled in a graphics artist to make it look not horrible.
 This is the result of that week of work.
